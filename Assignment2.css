@@ -1,0 +1,26 @@
+.login{padding-right: 30px; 
+     font-size: 1.2rem;
+      color: white;
+       background-color: rgb(131, 49, 49);
+        border-radius: 20px;
+         border-color: red;
+          border: thin;
+          padding-left: 25px;
+           font-size: 2rem;
+            margin-right: 20px;
+             font-weight: bold;}
+.create{font-size: 1.2rem; color: white; background-color:rgb(131, 49, 49); border-radius: 20px; border-color: red; border: thin;} 
+.sign-up{ position: absolute; top: 5px; right: 70px; padding: 20px; color: white; font-weight: bold;}
+.logo{color: red; font-size: 4rem; text-align: center; position: relative; bottom: 10px; font-weight: bold;}
+.logo-position{width: 80px; height: 80px; border-radius: 50%; background-color: white; position: absolute; top: 18%; left: 50%;}
+.search-heading{position: absolute; top: 32%; left: 30%; color: white; font-weight: bold;}
+.logo-item{padding-top: 90px;}
+
+.location-heading{position: absolute; left: 500px; top: 230px; color: white; font-weight: 700; font-size: 2rem;}
+.discover{padding-top: 4px; font-size: 1.2rem; padding-bottom: 10px;}
+.search-bar{position: absolute; left: 35%; top: 40%;}
+.type-location{width: 180px; height: 35px; border-radius: 20px; border-color: white; border: thin; font-weight: bold;}
+.type-restaurant{height: 35px; width: 360px; border-radius: 20px; border-color: white; border: thick; font-style: normal;}
+.login{padding-right: 30px; font-size: 1.2rem;}
+
+.select{height: 35px; border-radius: 20px; margin: 20px;}
